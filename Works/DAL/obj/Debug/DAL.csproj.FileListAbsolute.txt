@@ -1,0 +1,5 @@
+F:\Project\Works\DAL\bin\Debug\DAL.dll
+F:\Project\Works\DAL\bin\Debug\DAL.pdb
+F:\Project\Works\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Project\Works\DAL\obj\Debug\DAL.dll
+F:\Project\Works\DAL\obj\Debug\DAL.pdb
